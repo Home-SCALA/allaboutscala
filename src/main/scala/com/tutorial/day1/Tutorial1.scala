@@ -2,6 +2,8 @@ package com.tutorial.day1
 
 /**
  * @see https://github.com/tvorogme/scala-tutorial/blob/master/day1/basics.ipynb
+ *      http://allaboutscala.com/tutorials/chapter-1-getting-familiar-intellij-ide/scala-tutorial-first-hello-world-application
+ *      https://github.com/anton-k/ru-neophyte-guide-to-scala
  */
 
 object Tutorial1 extends App {
