@@ -4,6 +4,17 @@ package com.tutorial.day1
  * @see https://github.com/tvorogme/scala-tutorial/blob/master/day1/basics.ipynb
  *      http://allaboutscala.com/tutorials/chapter-1-getting-familiar-intellij-ide/scala-tutorial-first-hello-world-application
  *      https://github.com/anton-k/ru-neophyte-guide-to-scala
+ *
+ *      https://habrahabr.ru/company/piter/blog/266103
+ *      https://github.com/hseeberger/pubsub/releases/tag/step-01
+ *      https://github.com/hseeberger/pubsub/releases/tag/step-02
+ *
+ * @see http://codedzen.ru/react-urok-1-osnovi
+ *      http://blog.soshace.com/ru/2016/09/05/react-lessons-lesson-1-introduction
+ *      https://loftblog.ru/material/osnovy-react-js-hello-world
+ *      https://proglib.io/p/start-learning-react
+ *      *******************
+ *      React урок 1 Основы
  */
 
 object Tutorial1 extends App {
